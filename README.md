@@ -1,3 +1,3 @@
-# POO-T3
-<img src="Talk-swiftUi">
+# Talk SWiftUI - Foundation
+<img src="Talk SWiftUI.png">
   <br>
